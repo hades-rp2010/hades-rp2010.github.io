@@ -17,6 +17,12 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Bookshelf"
+    url: /bookshelf/
+
+  - title: "Papershelf"
+    url: /papershelf/
+
   - title: "CV"
     url: "/files/Rishabh_CV.pdf"
   
