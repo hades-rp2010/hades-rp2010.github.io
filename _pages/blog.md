@@ -3,7 +3,7 @@ layout: default
 permalink: /blog/
 title: blog
 nav: true
-nav_order: 1
+nav_order: 6
 pagination:
   enabled: true
   collection: posts
@@ -11,6 +11,7 @@ pagination:
   per_page: 5
   sort_field: date
   sort_reverse: true
+  where_exp: "item.enabled == true"
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
@@ -56,7 +57,7 @@ pagination:
   </div>
   {% endif %}
 
-{% assign featured_posts = site.posts | where: "featured", "true" %}
+{% assign featured_posts = site.posts | where: "enabled", "true" | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
 <br>
 
@@ -104,9 +105,9 @@ pagination:
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts %}
+      {% assign postlist = paginator.posts | where: "enabled", "true" %}
     {% else %}
-      {% assign postlist = site.posts %}
+      {% assign postlist = site.posts | where: "enabled", "true" %}
     {% endif %}
 
     {% for post in postlist %}
