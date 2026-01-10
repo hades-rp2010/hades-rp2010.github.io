@@ -1,0 +1,17 @@
+- date: "2026-01-15"
+  type: "paper"
+  headline: "Paper accepted at CVPR 2026"
+  description: "My work on 'Adversarial Robustness in Vision Transformers' has been accepted for oral presentation."
+  link: "#"
+
+- date: "2025-11-20"
+  type: "talk"
+  headline: "Invited Talk at Amazon Science"
+  description: "Discussed the future of generative AI in e-commerce."
+  link: "#"
+
+- date: "2025-08-10"
+  type: "career"
+  headline: "Started as Applied Scientist II"
+  description: "Joined the AGI team at Amazon, Seattle."
+  link: "#"

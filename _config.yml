@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-favicon                  : "/favicon.ico"
+favicon                  : "/images/favicon.ico"
 title                    : "Rishabh Patra"
 title_separator          : "-"
 name                     : &name "Rishabh Patra"
@@ -74,7 +74,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : "G-S1QM48HHPG"
 

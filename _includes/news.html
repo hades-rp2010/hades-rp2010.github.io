@@ -1,0 +1,36 @@
+<div class="news-section">
+    <h3 class="archive__subtitle">📢 News & Updates</h3>
+    <div class="news-container"
+        style="max-height: 200px; overflow-y: auto; padding-right: 10px; border: 1px solid #eee; padding: 10px; border-radius: 5px;">
+        <ul class="news-list" style="list-style: none; padding: 0; margin: 0;">
+            {% for item in site.data.news limit:5 %}
+            <li
+                style="margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid #f0f0f0; display: flex; align-items: flex-start;">
+                <div style="min-width: 85px; font-size: 0.85em; color: #888; margin-right: 10px;">
+                    {{ item.date | date: "%b %Y" }}
+                </div>
+                <div>
+                    {% if item.type == 'paper' %}
+                    <i class="fas fa-scroll" aria-hidden="true" title="Paper"></i>
+                    {% elsif item.type == 'talk' %}
+                    <i class="fas fa-microphone-alt" aria-hidden="true" title="Talk"></i>
+                    {% elsif item.type == 'career' %}
+                    <i class="fas fa-briefcase" aria-hidden="true" title="Job"></i>
+                    {% else %}
+                    <i class="fas fa-bullhorn" aria-hidden="true" title="News"></i>
+                    {% endif %}
+
+                    <strong>{{ item.headline }}</strong>
+                    {% if item.description %}
+                    <br><span style="font-size: 0.9em;">{{ item.description }}</span>
+                    {% endif %}
+                    {% if item.link and item.link != '#' %}
+                    <a href="{{ item.link }}" style="font-size: 0.85em; margin-left: 5px;"><i
+                            class="fas fa-external-link-alt"></i></a>
+                    {% endif %}
+                </div>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
