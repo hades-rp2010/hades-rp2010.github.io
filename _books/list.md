@@ -19,4 +19,12 @@ books:
     buy_link: https://www.amazon.com/Crack-Creation-Unthinkable-Power-Control/dp/0544716949
     released: 2017
     status: Reading
+  - title: Chip War
+    author: Chris Miller
+    cover: assets/img/book_covers/chip_war.jpg
+    isbn: 9781398504103
+    categories: non-fiction technology geopolitics history
+    buy_link: https://www.amazon.in/dp/1398504106
+    released: 2022
+    status: Reading
 ---
