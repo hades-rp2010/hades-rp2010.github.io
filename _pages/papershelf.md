@@ -15,6 +15,7 @@ nav_order: 5
 <div class="publications">
 
 {% for topic in page.topics %}
+
   <h2 class="bibliography">{{ topic }}</h2>
   {% bibliography --file _papershelf/papers --query @*[topic={{topic}}] --group_by none %}
 {% endfor %}

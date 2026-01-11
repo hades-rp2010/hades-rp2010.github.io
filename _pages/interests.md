@@ -9,19 +9,14 @@ nav_order: 2
 
 {{ site.under_construction }}
 
-There are my interests (both research as well as reading) in life.  
-
-
-
+There are my interests (both research as well as reading) in life.
 
 ### Research Interests
 
-*Interpretable and robust AI*
+_Interpretable and robust AI_
 
+_Neuroscience and cognitive science_
 
-*Neuroscience and cognitive science*
-
-
-*Reinforcement Learning*
+_Reinforcement Learning_
 
 ### Reading Interests
