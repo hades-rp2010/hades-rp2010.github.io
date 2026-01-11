@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hades-rp2010.github.io/new_site.github.io/sitemap.xml
+Sitemap: https://hades-rp2010.github.io/sitemap.xml
