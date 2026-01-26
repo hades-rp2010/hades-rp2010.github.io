@@ -4,7 +4,7 @@ title: papershelf
 permalink: /papershelf/
 description: Papers I am reading or finding interesting.
 nav: true
-topics: ["NLP", "Psychology"]
+topics: ["RL", "NLP", "Psychology", "Others"]
 nav_order: 5
 ---
 

@@ -18,7 +18,7 @@ books:
     categories: non-fiction science genetics
     buy_link: https://www.amazon.com/Crack-Creation-Unthinkable-Power-Control/dp/0544716949
     released: 2017
-    status: Reading
+    status: Finished
   - title: Chip War
     author: Chris Miller
     cover: assets/img/book_covers/chip_war.jpg
@@ -26,5 +26,13 @@ books:
     categories: non-fiction technology geopolitics history
     buy_link: https://www.amazon.in/dp/1398504106
     released: 2022
+    status: Reading
+  - title: A Brief History of Intelligence
+    author: Max Bennett
+    cover: assets/img/book_covers/brief_history_of_intelligence.jpg
+    isbn: 9780063286344
+    categories: science neuroscience ai evolution
+    buy_link: https://www.amazon.com/dp/0063286343
+    released: 2023
     status: Reading
 ---
