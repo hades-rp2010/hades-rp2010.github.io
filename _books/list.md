@@ -26,7 +26,7 @@ books:
     categories: non-fiction technology geopolitics history
     buy_link: https://www.amazon.in/dp/1398504106
     released: 2022
-    status: Finished 
+    status: Finished
   - title: A Brief History of Intelligence
     author: Max Bennett
     cover: assets/img/book_covers/brief_history_of_intelligence.jpg
