@@ -26,7 +26,7 @@ books:
     categories: non-fiction technology geopolitics history
     buy_link: https://www.amazon.in/dp/1398504106
     released: 2022
-    status: Reading
+    status: Finished 
   - title: A Brief History of Intelligence
     author: Max Bennett
     cover: assets/img/book_covers/brief_history_of_intelligence.jpg
@@ -34,5 +34,13 @@ books:
     categories: science neuroscience ai evolution
     buy_link: https://www.amazon.com/dp/0063286343
     released: 2023
+    status: Reading
+  - title: The Man from the Future
+    author: Ananyo Bhattacharya
+    cover: assets/img/book_covers/the_man_from_the_future.jpg
+    isbn: 9780241398845
+    categories: biography science history
+    buy_link: https://www.amazon.com/Man-Future-Visionary-Life-Neumann/dp/1324003995
+    released: 2022
     status: Reading
 ---
