@@ -43,4 +43,36 @@ books:
     buy_link: https://www.amazon.com/Man-Future-Visionary-Life-Neumann/dp/1324003995
     released: 2022
     status: Reading
+  - title: Anxious People
+    author: Fredrik Backman
+    cover: assets/img/book_covers/anxious_people.jpg
+    isbn: 9781501160844
+    categories: fiction humor contemporary
+    buy_link: https://www.amazon.com/dp/1501160842
+    released: 2020
+    status: Finished
+  - title: When the Heavens Went on Sale
+    author: Ashlee Vance
+    cover: assets/img/book_covers/when_the_heavens.jpg
+    isbn: 9780753557761
+    categories: non-fiction space technology
+    buy_link: https://www.amazon.com/When-Heavens-Went-Sale-Geniuses/dp/0062998870
+    released: 2023
+    status: Reading
+  - title: 1984
+    author: George Orwell
+    cover: assets/img/book_covers/1984.jpg
+    isbn: 9780451524935
+    categories: fiction dystopian classic
+    buy_link: https://www.amazon.com/dp/0451524934
+    released: 1949
+    status: Reading
+  - title: Animal Farm
+    author: George Orwell
+    cover: assets/img/book_covers/animal_farm.jpg
+    isbn: 9780451526342
+    categories: fiction classic political-satire
+    buy_link: https://www.amazon.com/dp/0451526341
+    released: 1945
+    status: Finished
 ---
