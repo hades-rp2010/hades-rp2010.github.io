@@ -27,14 +27,6 @@ books:
     buy_link: https://www.amazon.in/dp/1398504106
     released: 2022
     status: Finished
-  - title: A Brief History of Intelligence
-    author: Max Bennett
-    cover: assets/img/book_covers/brief_history_of_intelligence.jpg
-    isbn: 9780063286344
-    categories: science neuroscience ai evolution
-    buy_link: https://www.amazon.com/dp/0063286343
-    released: 2023
-    status: Reading
   - title: The Man from the Future
     author: Ananyo Bhattacharya
     cover: assets/img/book_covers/the_man_from_the_future.jpg
@@ -42,7 +34,7 @@ books:
     categories: biography science history
     buy_link: https://www.amazon.com/Man-Future-Visionary-Life-Neumann/dp/1324003995
     released: 2022
-    status: Reading
+    status: Finished
   - title: Anxious People
     author: Fredrik Backman
     cover: assets/img/book_covers/anxious_people.jpg
@@ -59,14 +51,6 @@ books:
     buy_link: https://www.amazon.com/When-Heavens-Went-Sale-Geniuses/dp/0062998870
     released: 2023
     status: Reading
-  - title: 1984
-    author: George Orwell
-    cover: assets/img/book_covers/1984.jpg
-    isbn: 9780451524935
-    categories: fiction dystopian classic
-    buy_link: https://www.amazon.com/dp/0451524934
-    released: 1949
-    status: Reading
   - title: Animal Farm
     author: George Orwell
     cover: assets/img/book_covers/animal_farm.jpg
@@ -75,4 +59,12 @@ books:
     buy_link: https://www.amazon.com/dp/0451526341
     released: 1945
     status: Finished
+  - title: The Big Picture On the Origins of Life, Meaning, and the Universe Itself
+    author: Sean Carroll
+    cover: assets/img/book_covers/big_picture.jpg
+    isbn: 9781780746074
+    categories: physics philosphy
+    buy_link: https://www.amazon.com/dp/1101984252
+    released: 2016
+    status: Reading
 ---
