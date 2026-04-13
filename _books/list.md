@@ -59,6 +59,14 @@ books:
     buy_link: https://www.amazon.com/dp/0451526341
     released: 1945
     status: Finished
+  - title: The odessa file
+    author: Fredrick Forsyth
+    cover: assets/img/book_covers/odessa_files.jpg
+    isbn: 9780451239396
+    categories:
+    buy_link: https://www.amazon.com/dp/0451239393
+    released: 2012
+    status: Finished
   - title: The Big Picture On the Origins of Life, Meaning, and the Universe Itself
     author: Sean Carroll
     cover: assets/img/book_covers/big_picture.jpg
@@ -66,5 +74,13 @@ books:
     categories: physics philosphy
     buy_link: https://www.amazon.com/dp/1101984252
     released: 2016
+    status: Reading
+  - title: Liar's Poker
+    author: Michael Lewis
+    cover: assets/img/book_covers/liars_poker.jpg
+    isbn: 9780393338690
+    categories: non-fiction business finance memoir
+    buy_link: https://www.amazon.com/dp/039333869X
+    released: 1989
     status: Reading
 ---
