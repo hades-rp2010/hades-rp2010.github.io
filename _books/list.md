@@ -83,4 +83,20 @@ books:
     buy_link: https://www.amazon.com/dp/039333869X
     released: 1989
     status: Reading
+  - title: Gene Machine
+    author: Venki Ramakrishnan
+    cover: assets/img/book_covers/gene_machine.jpg
+    isbn: 9780465093366
+    categories: science biology
+    buy_link: https://www.amazon.com/dp/1541604490/
+    released: 2018
+    status: Finished
+  - title: No Place to Hide
+    author: Glenn Greenwald
+    cover: assets/img/book_covers/no_place_to_hide.jpg
+    isbn: 9781250062581
+    categories: non-fiction politics
+    buy_link: https://www.amazon.com/dp/1250062586/
+    released: 2014
+    status: Reading
 ---

@@ -46,7 +46,7 @@ layout: page
               <br>
               {% assign statuses = 'abandoned,finished,interested,paused,queued,reading,reread' | split: ',' %}
               {% assign status = item.status | downcase | strip %}
-              <span class="badge {% if status == 'finished' or status == 'reading' %}badge-success{% else %}badge-secondary{% endif %}">
+              <span class="badge {% if status == 'finished' %}badge-success{% elsif status == 'reading' %}badge-warning{% else %}badge-secondary{% endif %}">
                 {{- item.status -}}
               </span>
             {% endif %}
