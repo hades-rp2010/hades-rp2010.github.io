@@ -79,7 +79,7 @@ books:
     author: Michael Lewis
     cover: assets/img/book_covers/liars_poker.jpg
     isbn: 9780393338690
-    categories: non-fiction business finance memoir
+    categories:   fiction business finance memoir
     buy_link: https://www.amazon.com/dp/039333869X
     released: 1989
     status: Reading

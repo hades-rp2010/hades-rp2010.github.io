@@ -22,7 +22,10 @@ layout: page
       {% endif %}
 
       <div class="col mb-4 text-center">
-        <figure class="cover">
+        {% if item.buy_link %}
+          <a href="{{ item.buy_link }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+        {% endif %}
+        <figure class="cover" style="{% if item.buy_link %}cursor: pointer;{% endif %}">
           {% if item.cover %}
             <img alt="{{ item.title }} cover" src="{{ item.cover | relative_url }}" style="height:200px; width: auto; object-fit: contain;">
           {% elsif item.olid %}
@@ -52,6 +55,7 @@ layout: page
             {% endif %}
           </figcaption>
         </figure>
+        {% if item.buy_link %}</a>{% endif %}
       </div>
     {% endfor %}
   </div>
