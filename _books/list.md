@@ -50,7 +50,7 @@ books:
     categories: non-fiction space technology
     buy_link: https://www.amazon.com/When-Heavens-Went-Sale-Geniuses/dp/0062998870
     released: 2023
-    status: Reading
+    status: Finished
   - title: Animal Farm
     author: George Orwell
     cover: assets/img/book_covers/animal_farm.jpg
@@ -79,10 +79,10 @@ books:
     author: Michael Lewis
     cover: assets/img/book_covers/liars_poker.jpg
     isbn: 9780393338690
-    categories:   fiction business finance memoir
+    categories: fiction business finance memoir
     buy_link: https://www.amazon.com/dp/039333869X
     released: 1989
-    status: Reading
+    status: Finished
   - title: Gene Machine
     author: Venki Ramakrishnan
     cover: assets/img/book_covers/gene_machine.jpg
@@ -98,5 +98,13 @@ books:
     categories: non-fiction politics
     buy_link: https://www.amazon.com/dp/1250062586/
     released: 2014
+    status: Reading
+  - title: The Silk Roads
+    author: Peter Frankopan
+    cover: assets/img/book_covers/the_silk_roads.jpg
+    isbn: 9781101946329
+    categories: non-fiction history
+    buy_link: https://www.amazon.com/dp/1101946326/
+    released: 2015
     status: Reading
 ---
