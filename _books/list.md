@@ -98,7 +98,7 @@ books:
     categories: non-fiction politics
     buy_link: https://www.amazon.com/dp/1250062586/
     released: 2014
-    status: Reading
+    status: Finished 
   - title: The Silk Roads
     author: Peter Frankopan
     cover: assets/img/book_covers/the_silk_roads.jpg
