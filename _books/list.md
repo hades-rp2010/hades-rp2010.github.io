@@ -107,7 +107,7 @@ books:
     buy_link: https://www.amazon.com/dp/1101946326/
     released: 2015
     status: Finished
-  - title: 'Phantoms in the brain: probing the mysteries of the human mind'
+  - title: "Phantoms in the brain: probing the mysteries of the human mind"
     author: V. S. Ramachandran and Sandra Blakeslee
     cover: assets/img/book_covers/phantoms_in_the_brain_probing_the_mysteries_of_the_human_mind.jpg
     olid: OL7727504M
