@@ -98,7 +98,7 @@ books:
     categories: non-fiction politics
     buy_link: https://www.amazon.com/dp/1250062586/
     released: 2014
-    status: Finished 
+    status: Finished
   - title: The Silk Roads
     author: Peter Frankopan
     cover: assets/img/book_covers/the_silk_roads.jpg
@@ -106,5 +106,13 @@ books:
     categories: non-fiction history
     buy_link: https://www.amazon.com/dp/1101946326/
     released: 2015
+    status: Finished
+  - title: 'Phantoms in the brain: probing the mysteries of the human mind'
+    author: V. S. Ramachandran and Sandra Blakeslee
+    cover: assets/img/book_covers/phantoms_in_the_brain_probing_the_mysteries_of_the_human_mind.jpg
+    olid: OL7727504M
+    categories:
+    buy_link: https://www.amazon.com/s?k=Phantoms%20in%20the%20brain%3A%20probing%20the%20mysteries%20of%20the%20human%20mind%20V.%20S.%20Ramachandran%20and%20Sandra%20Blakeslee
+    released: 1999
     status: Reading
 ---
