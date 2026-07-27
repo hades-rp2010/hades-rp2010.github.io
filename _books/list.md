@@ -107,12 +107,20 @@ books:
     buy_link: https://www.amazon.com/dp/1101946326/
     released: 2015
     status: Finished
-  - title: "Phantoms in the brain: probing the mysteries of the human mind"
+  - title: "Phantoms in the brain"
     author: V. S. Ramachandran and Sandra Blakeslee
     cover: assets/img/book_covers/phantoms_in_the_brain_probing_the_mysteries_of_the_human_mind.jpg
     olid: OL7727504M
     categories:
-    buy_link: https://www.amazon.com/s?k=Phantoms%20in%20the%20brain%3A%20probing%20the%20mysteries%20of%20the%20human%20mind%20V.%20S.%20Ramachandran%20and%20Sandra%20Blakeslee
+    buy_link: https://www.amazon.com/dp/0688172172
     released: 1999
     status: Reading
+  - title: The Midnight Library
+    author: Matt Haig
+    cover: assets/img/book_covers/the_midnight_library.jpg
+    olid: OL28401522M
+    categories:
+    buy_link: https://www.amazon.com/dp/0525559493/
+    released: 2020
+    status: Finished
 ---
