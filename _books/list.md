@@ -107,12 +107,12 @@ books:
     buy_link: https://www.amazon.com/dp/1101946326/
     released: 2015
     status: Finished
-  - title: "Phantoms in the brain"
+  - title: Phantoms in the brain
     author: V. S. Ramachandran and Sandra Blakeslee
     cover: assets/img/book_covers/phantoms_in_the_brain_probing_the_mysteries_of_the_human_mind.jpg
     olid: OL7727504M
     categories:
-    buy_link: https://www.amazon.com/dp/0688172172
+    buy_link: https://www.amazon.com/dp/0688172172/
     released: 1999
     status: Reading
   - title: The Midnight Library
@@ -123,4 +123,22 @@ books:
     buy_link: https://www.amazon.com/dp/0525559493/
     released: 2020
     status: Finished
+  - title: The Da Vinci Code
+    author: Dan Brown
+    cover: assets/img/book_covers/the_da_vinci_code.jpg
+    olid: OL25928337M
+    isbn: 9780385504201
+    categories:
+    buy_link: https://www.amazon.com/dp/0385504209/
+    released: 2003
+    status: Reading
+  - title: DNA
+    author: James D. Watson
+    cover: assets/img/book_covers/dna.jpg
+    olid: OL26931917M
+    isbn: 9780385351188
+    categories:
+    buy_link: https://www.amazon.com/dp/0385351186/
+    released: 2017
+    status: Reading
 ---
