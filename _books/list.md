@@ -140,5 +140,31 @@ books:
     categories:
     buy_link: https://www.amazon.com/dp/0385351186/
     released: 2017
+    status: Finished
+  - title: A mathematician's apology
+    author: G. H. Hardy
+    cover: assets/img/book_covers/a_mathematician_s_apology.jpg
+    olid: OL21520619M
+    isbn: 8170263751
+    categories:
+    buy_link: https://www.amazon.com/dp/8170263751/
+    released: 1940
+    status: Finished
+  - title: Smoke and Ashes
+    author: Amitav Ghosh
+    cover: assets/img/book_covers/smoke_and_ashes.jpg
+    olid: OL50633188M
+    isbn: 9781529349252
+    categories:
+    buy_link: https://www.amazon.com/dp/1529349257/
+    released: 2024
+    status: Reading
+  - title: The prodigal tongue
+    author: M. Lynne Murphy
+    cover: assets/img/book_covers/the_prodigal_tongue.jpg
+    isbn: 9780143131106
+    categories:
+    buy_link: https://www.amazon.com/dp/0143131109/
+    released: 2018
     status: Reading
 ---
